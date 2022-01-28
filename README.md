@@ -1,6 +1,6 @@
 ## What's this?
 
-This is a python script made to extract Beatmap Packs for the data it contains, being compatible with default packs. 
+This is a python script made to extract Beatmap Packs for the data it contains, to fit a certain beatmap pack sheet. 
 
 ## Prequisites for running?
 
