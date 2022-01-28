@@ -19,3 +19,5 @@ After putting the files you want parsed to to the folder "putPackHere", run the 
 >python3 main.py
 
 After the export operation is done, you can CTRL+C to close the program. On the output folder there should be output.xlsx file, which can be directly imported to Google Slides and through there you can simply copy paste its contents. 
+
+Code's tested on Linux, I'll update when I test it on Windows too. It theoratically should.
