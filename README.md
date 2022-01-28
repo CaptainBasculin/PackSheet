@@ -8,7 +8,7 @@ Install Python 3 if you haven't, make sure to select "Add to PATH" while install
 
 Install the prequisites with this command after that
 
->pip install py7zr openpyxl
+>pip3 install py7zr openpyxl
 
 ## How do I run it?
 
