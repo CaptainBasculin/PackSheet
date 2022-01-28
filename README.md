@@ -1,8 +1,8 @@
-##What's this?
+## What's this?
 
 This is a python script made to extract Beatmap Packs for the data it contains, being compatible with . 
 
-##Prequisites for running?
+## Prequisites for running?
 
 Install Python 3 if you haven't, make sure to select "Add to PATH" while installing. 
 
@@ -10,7 +10,7 @@ Install the prequisites with this command after that
 
 pip install py7zr openpyxl
 
-##How do I run it?
+## How do I run it?
 
 Place the repository contents to a seperate folder, and head to that directory through command line.
 
